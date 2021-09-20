@@ -1,6 +1,6 @@
 ## Inspiration
 
-At times, I have felt out of ideas and desperate to meet the deadlines imposed by my teachers in my music class. I created this app to cater to those who are not very creative at writing songs like myself
+At times, I have felt out of ideas and desperate to meet the deadlines imposed by my teachers in my music class. I created this app to cater to those who are not very creative at writing songs like myself.
 
 
 ## What it does
@@ -10,12 +10,12 @@ It creates new songs from the lyrics of the songs provided to it using Markov Ch
 
 ## How we built it
 
-This project was built using Python, and used PySimpleGUI, natural language toolkit, and NumPy .
+This project was built using Python, and used PySimpleGUI, natural language toolkit, and NumPy.
 
 
 ## Challenges we ran into
 
-Finding a framework to create the GUI was the main issue
+Finding a framework to create the GUI was the main issue.
 
 
 ## Accomplishments that we're proud of
